@@ -1,0 +1,18 @@
+#background{
+    width: 700px;
+    height: 600px;
+    background-image: url('/static/img/map.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    border: 5px solid black;
+}
+#background img{
+    size: auto;
+}
+.location{
+    position: absolute;
+}
+#DeaseLake{
+    top: 520px;
+    left: 635px;
+}

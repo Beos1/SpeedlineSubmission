@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>{{ title }} - Weather Tracker</title>
+        <link rel="stylesheet" href="static/style/style.css">
+        <link rel="shortcut icon" href="static/img/sunny.png" type="image/x-icon">
+    </head>
+    <body>
+        <div id="background">
+            {% for location in locations %}
+                <a href="{{location.mainurl}}" class="location" style ="top:{{location.top}}; left:{{location.left}};"><img src="static/img/{{location.condition}}.png" width="20px" height="20px"></a>
+            {% endfor %}
+           </div>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+Dease Lake|100|250|https://weather.gc.ca/city/pages/bc-14_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000227_e.js
+Fort Nelson|90|410|https://weather.gc.ca/city/pages/bc-83_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000771_e.js
+Terrace|280|270|https://weather.gc.ca/city/pages/bc-80_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000757_e.js
+Prince George|310|420|https://weather.gc.ca/city/pages/bc-57_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000633_e.js
+Whistler|480|430|https://weather.gc.ca/city/pages/bc-86_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000078_e.js
+Revelstoke|435|560|https://weather.gc.ca/city/pages/bc-65_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000679_e.js
+Creston|520|635|https://weather.gc.ca/city/pages/bc-26_metric_e.html|https://weather.gc.ca/wxlink/site_js/s0000212_e.js
